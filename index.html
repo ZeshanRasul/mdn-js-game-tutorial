@@ -187,9 +187,10 @@
       else if (leftPressed && paddleX > 0) {
         paddleX -= 7;
       }
+      requestAnimationFrame(draw);
     }
 
-    setInterval(draw, 10);
+    draw();
 
   </script>
 </body>
