@@ -12,3 +12,9 @@ cd mdn-js-game-tutorial
 open index.html```
 
 Or simply clone the repo to your local machine and copy the full path of `index.html` into any browser of your choice.
+
+### To do
+
+1. Add pause screen
+2. Add restart button
+3. Add moving blocks
