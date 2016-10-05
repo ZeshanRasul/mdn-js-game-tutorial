@@ -9,7 +9,8 @@ Tutorial available [here](https://developer.mozilla.org/en-US/docs/Games/Tutoria
 ```
 git clone https://github.com/ZeshanRasul/mdn-js-game-tutorial.git
 cd mdn-js-game-tutorial
-open index.html```
+open index.html
+```
 
 Or simply clone the repo to your local machine and copy the full path of `index.html` into any browser of your choice.
 
